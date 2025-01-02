@@ -1,0 +1,8 @@
+----- RECEIPT -----
+Pasta x 2 = ?300.0
+--------------------
+Total: ?300.0
+Tax (5%): ?15.0
+Total with Tax: ?315.0
+--------------------
+Thank you for dining with us!
